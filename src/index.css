@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,100;1,300;1,400;1,500;1,700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.my-custom-style {
+    background-color: #FDF0A3;
+}
+.basket-color {
+    background-color:#f7df5b ;
+    cursor: pointer;
+}
+.app {
+    font-family: 'Poppins', sans-serif;
+    background-color: #E7E3E0;
+   
+}
+.text-color {
+    color:#252826;
+}
+body {
+    background-color: #FDF0A3;
+    scroll-behavior: smooth;
+}

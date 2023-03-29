@@ -1,0 +1,39 @@
+const productData = [
+    {
+        id:1,
+        name:"Cactus",
+        price:100,
+        image:"https://images.unsplash.com/photo-1485955900006-10f4d324d411?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGNhY3R1cyUyMHBsYW50fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        id:2,
+        name:"Cacti",
+        price:200,
+        image:"https://images.unsplash.com/photo-1463320898484-cdee8141c787?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGNhY3RpJTIwcGxhbnR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        id:3,
+        name:"Aloe vera",
+        price:300,
+        image:"https://plus.unsplash.com/premium_photo-1668416065881-41ac5e406759?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80"
+    },
+    {
+        id:4,
+        name:"Succulent",
+        price:270,
+        image:"https://images.unsplash.com/photo-1509069575671-3df40ce5307c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+        id:5,
+        name:"Pine",
+        price:350,
+        image:"https://images.unsplash.com/photo-1553290322-b4758963a69f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fHN1Y3VsZW50fGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        id:6,
+        name:"Sucullent",
+        price:290,
+        image:"https://plus.unsplash.com/premium_photo-1668416065881-41ac5e406759?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80"
+    }
+]
+export default productData
